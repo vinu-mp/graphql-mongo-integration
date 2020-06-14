@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ADMIN": "<username>",
+    "MONGO_PWD": "<PWD>",
+    "MONGO_DB": "Graphql-test"
+  }
+}
